@@ -14,3 +14,7 @@ KaseiCrowdsale Contract Compilation
 KaseiCoin Deployer Contract Compilation
 
 ![image](https://user-images.githubusercontent.com/101014324/182904949-efeb0953-9bb2-4ce0-b12d-aa22d0f960f2.png)
+
+Purchasing tokens
+
+![image](https://user-images.githubusercontent.com/101014324/183128992-2d3f8036-98af-4fd4-aaef-1d754ecc8154.png)
