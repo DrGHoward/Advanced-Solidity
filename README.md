@@ -18,3 +18,7 @@ KaseiCoin Deployer Contract Compilation
 Purchasing tokens
 
 ![image](https://user-images.githubusercontent.com/101014324/183128992-2d3f8036-98af-4fd4-aaef-1d754ecc8154.png)
+
+Purchasing more tokens
+
+![image](https://user-images.githubusercontent.com/101014324/183130527-1e767d40-3ca2-4a74-8494-8d602d7f92db.png)
