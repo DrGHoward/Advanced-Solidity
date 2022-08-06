@@ -1,5 +1,7 @@
 # Advanced-Solidity
 
+In this assignment, we created the KaseiCoin Token Contract, KaseiCoin Crowdsale Contract, and the KaseiCoin Deployer Contract. We also tested and deployed the crowdsale on a local blockchain. The KaseiCoin will be part of the new monetary system for the new Mars colony. 
+
 
 
 # Evaluation Evidence
